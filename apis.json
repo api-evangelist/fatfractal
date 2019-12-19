@@ -1,0 +1,73 @@
+{
+    "name": "FatFractal",
+    "description": "Have you ever seen a company with a great application idea quickly stall due to the complexities of creating a backend that works and can scale?    FatFractal has created a development platform, written from the ground up that is focused on solving thi...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/78-fatfractal.jpg",
+    "tags": [
+        "api service provider",
+        "baas",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fatfractal\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FatFractal",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/78-fatfractal.jpg",
+            "humanURL": "http:\/\/fatfractal.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fatfractal-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fatfractal-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/fatfractal.com\/prod\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/fatfractal.com\/prod\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fatfractal"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fatfractal"
+        },
+        {
+            "type": "Email",
+            "url": "support@fatfractal.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@fatfractal.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/FatFractal"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fatfractal"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/fatfractal.com\/"
+        }
+    ]
+}
